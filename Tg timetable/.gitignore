@@ -1,0 +1,3 @@
+.env
+./kdbs/__pycache__
+./handlierstg/__pycache__
